@@ -112,3 +112,5 @@ print(skySentence)
 String interpolation is a very useful part of Swift, and you will continue to use this fundamental feature in the rest of your Swift code.
 
 <a href='https://learn.co/lessons/Print' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+Completed Playground
