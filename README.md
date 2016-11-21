@@ -25,8 +25,8 @@ After creating your new playground in Xcode, start by declaring three strings re
 
 ```swift
 var favoriteWord = "swag"    // Use your own favorite word!
-var favoriteColor = "blue"        // Use your own favorite color!
-var favoriteMusician = "Nirvana"  // Use your own favorite musician!
+var favoriteColor = "black"        // Use your own favorite color!
+var favoriteMusician = "geazy"  // Use your own favorite musician!
 ```
 
 You'll see your values represented in the sidebar on the right side of your playground:
@@ -112,3 +112,17 @@ print(skySentence)
 String interpolation is a very useful part of Swift, and you will continue to use this fundamental feature in the rest of your Swift code.
 
 <a href='https://learn.co/lessons/Print' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+var favoriteWord = "swag"
+var favoriteColor = "black"
+var favoriteMusician = "Geazy"
+
+print(favoriteWord)
+print(favoriteColor)
+print(favoriteMusician)
+
+let color = "blue"
+print ("The sky is \(color).")
+
+print ("Hey whatsup hello!")
+
