@@ -24,7 +24,7 @@ In Swift, you can print a variable or a constant to the screen using the `print(
 After creating your new playground in Xcode, start by declaring three strings representing your favorite word, color, and musician. First ask yourself: Should these be _variables_ (declaring using `var`) or _constants_ (declared using `let`)? You probably feel pretty strongly about your favorite word, color, and musician, but your tastes may change over time, so let's declare them as variables for now. You should enter them in your playground file:
 
 ```swift
-var favoriteWord = "mercurial"    // Use your own favorite word!
+var favoriteWord = "swag"    // Use your own favorite word!
 var favoriteColor = "blue"        // Use your own favorite color!
 var favoriteMusician = "Nirvana"  // Use your own favorite musician!
 ```
