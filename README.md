@@ -24,9 +24,9 @@ In Swift, you can print a variable or a constant to the screen using the `print(
 After creating your new playground in Xcode, start by declaring three strings representing your favorite word, color, and musician. First ask yourself: Should these be _variables_ (declaring using `var`) or _constants_ (declared using `let`)? You probably feel pretty strongly about your favorite word, color, and musician, but your tastes may change over time, so let's declare them as variables for now. You should enter them in your playground file:
 
 ```swift
-var favoriteWord = "mercurial"    // Use your own favorite word!
-var favoriteColor = "blue"        // Use your own favorite color!
-var favoriteMusician = "Nirvana"  // Use your own favorite musician!
+var favoriteWord = "swag"    // Use your own favorite word!
+var favoriteColor = "black"        // Use your own favorite color!
+var favoriteMusician = "geazy"  // Use your own favorite musician!
 ```
 
 You'll see your values represented in the sidebar on the right side of your playground:
@@ -112,3 +112,17 @@ print(skySentence)
 String interpolation is a very useful part of Swift, and you will continue to use this fundamental feature in the rest of your Swift code.
 
 <a href='https://learn.co/lessons/Print' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+var favoriteWord = "swag"
+var favoriteColor = "black"
+var favoriteMusician = "Geazy"
+
+print(favoriteWord)
+print(favoriteColor)
+print(favoriteMusician)
+
+let color = "blue"
+print ("The sky is \(color).")
+
+print ("Hey whatsup hello!")
+
