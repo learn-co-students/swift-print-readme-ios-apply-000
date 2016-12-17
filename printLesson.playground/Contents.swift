@@ -20,7 +20,10 @@ print ("Hi mom! My favorite color is \(favoriteColor), my favorite word is \(fav
 var howCool = "Very cool!"
 print("How cool am I? \(howCool)")
 
-var howCool = "Super extra cool"
+howCool = "Super extra cool"
+print("How cool am I? \(howCool)")
+
+howCool = "Cooler than ever imagined"
 print("How cool am I? \(howCool)")
 
 
